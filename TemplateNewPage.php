@@ -43,6 +43,7 @@ https://templatemo.com/tm-543-breezed
                   <div class="col-lg-6 col-md-6 col-xs-12">
                       <div class="left-text-content">
                           <div class="section-heading">
+                              <h1> Bonjour! </h1>
                               <h6>Olla wuk e da?</h6>
                               <h2>Template Pagina</h2>
                           </div>
