@@ -40,7 +40,10 @@ https://templatemo.com/tm-543-breezed
     <!-- ***** About Area Starts ***** -->
     <section class="section" id="about">
         <div class="container">
-            <p>Halli Hallo! Wij zijn Souts en Gidsen Karel De Goede! Een zeer hechte groep met momenteel een dertigtal leiding en welgeteld 234 leden. Zo zijn wij een van de grootste scoutsen van ‘t Brugse Vrije. We voorzien van 14-17u uitgebreide spellen (ook wel een vergadering genoemd) voor onze leden (also known as de gasten). Wij bevinden ons in Assebroek, bij Brugge. We hebben gelukkig een groot terrein voor onze vele leden. Ook het Bergjesbos en Ryckeveldebos zijn zeer dicht in de buurt, zo kunnen we elke zaterdag goed ravotten! Altijd welkom en hopelijk tot snel!</p>
+          <div class="section-heading">
+              <h2>Wie zijn we?</h2>
+          </div>
+            <p><strong>Halli Hallo!</strong> Wij zijn Souts en Gidsen Karel De Goede! Een zeer hechte groep met momenteel een <strong>dertigtal leiding</strong> en welgeteld <strong>234 leden</strong>. Zo zijn wij een van de grootste scoutsen van ‘t Brugse Vrije. We voorzien van 14-17u uitgebreide spellen (ook wel een vergadering genoemd) voor onze leden (also known as de gasten). Wij bevinden ons in <strong>Assebroek</strong>, bij Brugge. We hebben gelukkig een <strong>groot terrein</strong> voor onze vele leden. Ook het Bergjesbos en Ryckeveldebos zijn zeer dicht in de buurt, zo kunnen we elke zaterdag goed ravotten! <strong>Altijd welkom en hopelijk tot snel!</strong></p>
             <li><img class = "img-fill" src ="assets/images/givers-1.jpg" alt=""></li>
         </div>
     </section>

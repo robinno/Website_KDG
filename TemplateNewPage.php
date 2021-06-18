@@ -39,6 +39,7 @@ https://templatemo.com/tm-543-breezed
 
       <section class="section" id="about">
           <div class="container">
+            <!--https://getbootstrap.com/docs/4.0/layout/grid/ -->
               <div class="row">
                   <div class="col-lg-6 col-md-6 col-xs-12">
                       <div class="left-text-content">
@@ -48,7 +49,6 @@ https://templatemo.com/tm-543-breezed
                               <h2>Template Pagina</h2>
                           </div>
                           <p>Dit is een Templatepagina waar een beetje text en een foto opstaat</p>
-
                       </div>
                   </div>
                   <div class="col-lg-6 col-md-6 col-xs-12">
@@ -57,6 +57,7 @@ https://templatemo.com/tm-543-breezed
                       </div>
                   </div>
               </div>
+            <p><strong>Halli Hallo!</strong> Wij zijn Souts en Gidsen Karel De Goede! Een zeer hechte groep met momenteel een <strong>dertigtal leiding</strong> en welgeteld <strong>234 leden</strong>. Zo zijn wij een van de grootste scoutsen van ‘t Brugse Vrije. We voorzien van 14-17u uitgebreide spellen (ook wel een vergadering genoemd) voor onze leden (also known as de gasten). Wij bevinden ons in <strong>Assebroek</strong>, bij Brugge. We hebben gelukkig een <strong>groot terrein</strong> voor onze vele leden. Ook het Bergjesbos en Ryckeveldebos zijn zeer dicht in de buurt, zo kunnen we elke zaterdag goed ravotten! <strong>Altijd welkom en hopelijk tot snel!</strong></p>
           </div>
       </section>
 
