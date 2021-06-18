@@ -139,7 +139,7 @@ https://templatemo.com/tm-543-breezed
                                 </a>
                             </div>
                             <div class="col-md-12">
-                                <a href="Mensen.php" class="main-button-icon">
+                                <a href="Leiding.php" class="main-button-icon">
                                     Leiding <i class="fa fa-arrow-right"></i>
                                 </a>
                             </div>
