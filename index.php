@@ -45,8 +45,8 @@ https://templatemo.com/tm-543-breezed
               <div class="img-fill">
                   <img src="assets/images/slide-01.jpg" alt="">
                   <div class="text-content">
-                    <h3>Welkom</h3>
-                    <h5>Hier kan je Tekst zetten</h5>
+                    <h3>Welkom bij</h3>
+                    <h5>Scouts Karel de Goede</h5>
                   </div>
               </div>
             </div>
@@ -56,10 +56,10 @@ https://templatemo.com/tm-543-breezed
               <div class="img-fill">
                   <img src="assets/images/slide-02.jpg" alt="">
                   <div class="text-content">
-                    <h3>Of je kan ook knoppen erbij zetten</h3>
-                    <h5>Super tof</h5>
-                    <a href="#" class="main-stroked-button">Read More</a>
-                    <a href="#" class="main-filled-button">Take Action</a>
+                    <!--<h3>knoppen</h3>
+                    <h5>...</h5>
+                    <a href="#" class="main-stroked-button">Neen</a>
+                    <a href="#" class="main-filled-button">Take Action</a> -->
                   </div>
               </div>
             </div>
@@ -68,12 +68,6 @@ https://templatemo.com/tm-543-breezed
             <div class="item">
               <div class="img-fill">
                   <img src="assets/images/slide-03.jpg" alt="">
-                  <div class="text-content">
-                    <h3>Je kan ook</h3>
-                    <h5>helemaal geen tekst hebben</h5>
-                    <a href="#" class="main-stroked-button">Learn More</a>
-                    <a href="#" class="main-filled-button">Get It Now</a>
-                  </div>
               </div>
             </div>
             <!-- // Item -->

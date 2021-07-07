@@ -68,7 +68,8 @@ html[xmlns] .clearfix {
 ul, li {
   padding: 0;
   margin: 0;
-  list-style: none;
+  list-style: outside;
+  list-style: disc;
 }
 
 header, nav, section, article, aside, footer, hgroup {
@@ -105,7 +106,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #777;
+  /*color: #777; */
 }
 
 /*
@@ -307,7 +308,7 @@ a.text-button-icon:hover i {
   font-size: 32px;
   font-weight: 800;
   letter-spacing: 1px;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 0px;
 }
 
@@ -975,10 +976,6 @@ about
   color: #5fb759;
 }
 
-#about .service-item {
-  margin-top: 30px;
-}
-
 #about .service-item img {
   float: left;
   margin-right: 15px;
@@ -1006,7 +1003,7 @@ about
 #about .right-text-content p {
   font-size: 16px;
   line-height: 27px;
-  color: #777;
+  /* color: #777; */
 }
 
 
@@ -1261,7 +1258,7 @@ contact
 #contact-us .section-heading h6 {
   color: #5fb759;
 }
-
+/*
 #contact-us .left-text-content ul li {
   margin-bottom: 30px;
 }
@@ -1282,7 +1279,7 @@ contact
   background-position: center center;
   background-repeat: no-repeat;
 }
-
+*/
 #contact {
   margin-top: 40px;
 }
